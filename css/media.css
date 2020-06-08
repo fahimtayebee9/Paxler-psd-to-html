@@ -1468,7 +1468,7 @@
         transform: translate(-15%, 95%);
     }
 }
-@media(max-width: 768px){
+@media(max-width: 767px){
     .top-header-content{
         /* text-align: center; */
         justify-content: center!important;
